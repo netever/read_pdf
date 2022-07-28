@@ -1,0 +1,5 @@
+version: "3"
+services:
+  readpdf: 
+    container_name: readpdf
+    build: .
